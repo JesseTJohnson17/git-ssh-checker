@@ -13,12 +13,12 @@
 2. step two
 3. step three
 
-Run 'python_analysis.py' to start the script.
+Run `python_analysis.py` to start the script.
 
-'''This is a block
+```This is a block
 of code
 I guess?
-'''
+```
 
 [Here is a link to Google](google.com)
 
